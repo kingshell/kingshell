@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kingshell
+- 👋 Hi, I’m @Ayushtripathi
 - 👀 I’m interested in being master hacker
 - 🌱 I’m currently learning linux
 - 💞️ I’m looking to collaborate on hacking money
